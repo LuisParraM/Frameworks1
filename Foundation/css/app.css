@@ -1,0 +1,159 @@
+body{
+	background:fixed;	
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+
+div.transbox{
+    margin: 30px;
+    background-color: #ffffff;
+    border: 1px solid black;
+    opacity: 0.9;
+    filter: alpha(opacity=60); /* For IE8 and earlier */
+}	
+
+#bloque{
+	opacity: 1;
+    filter: alpha(opacity=60);
+}
+
+#titulo{
+	background-color:#E0F8E6;
+	width:100%;
+	padding:15px;
+}
+
+.menu{
+	width:90%;
+	padding:10px;
+	text-align:center;
+	margin:auto;
+}
+.expanded.button{
+	width:300px;
+}
+
+.top-bar-right{
+	width:100%;
+	background-color:#FBF8EF;
+	padding:15px;
+	text-align:center;
+	margin:auto;
+}
+.button{
+	width:100px;
+}
+
+#img{
+	width:100px;
+}
+
+#articulos{
+	background-color:#F8E0F1;
+	padding:20px;
+}
+
+#panel{
+  text-shadow: 1px 1px 8px #02010a;
+  color: white;
+  background: rgba(141, 159, 193, 0.91);
+  margin: 0 auto;
+  padding-top: 4%;
+  padding-bottom: 3%;
+  border-radius: 5px 5px 5px 5px;
+}
+#panel-item{
+  padding-bottom: 5%;
+}
+#contenido{
+  background-color: white;
+  margin: 0 auto;
+  padding-top: 2%;
+  border-radius: 5px 5px 5px 5px;
+}
+#section{
+  padding-bottom: 1%;
+  border-radius: 0 0 5px 5px;
+}
+section{
+  padding-bottom: 1%;
+}
+#img-articulo{
+  border: 1px solid #b9b7b7;
+  border-radius: 5px 5px 5px 5px;
+  padding: 0.5%;
+  margin-bottom: 3%;
+  -webkit-box-shadow: 2px 2px 2px #02010a;
+  -moz-box-shadow: 2px 2px 2px #02010a;
+}
+#img-panel{
+  border: 1px solid #b9b7b7;
+  border-radius: 5px 5px 5px 5px;
+  padding: 0.5%;
+  margin-bottom: 3%;
+  -webkit-box-shadow: 2px 2px 2px #02010a;
+  -moz-box-shadow: 2px 2px 2px #02010a;
+}
+#item{
+  border: 1px solid #2447c7;
+  border-radius: 5px 5px 5px 5px;
+  margin-bottom: 1%;
+  background-color: #FEFEFE;
+}
+#item:hover{
+  background-color: #b1b7ce;
+}
+#menu{
+  text-shadow: none !important;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+a{
+  text-decoration: none;
+}
+#torso{
+  font-size: 230%;
+  float: left;
+}
+textarea{
+	width:95%;
+}
+#pencil{
+  float: right;
+}
+#buscar{
+  text-shadow: none !important;
+  font-size: 160%;
+  float: left;
+  background-color: #d1d5dc;
+  padding-top: 5%;
+  padding-right: 20%;
+}
+#item-historial{
+  padding-left: 5%;
+  margin-top: 3%;
+}
+#avatar{
+  width: 5%;
+  float: left;
+  margin: 5%;
+}
+#comentario{
+  border: 1px solid #c5baba;
+  border-radius: 5px;
+  margin: -1% 0% 2% 3%;
+  width: 95%;
+  float: left !important;
+  height:auto;
+}
+#text-comentario{
+  margin-top: 2%;
+}
+
+@media only screen and (max-width : 600px) {
+  #boton{
+		width:250px;
+		padding:auto;
+		text-align:center;
+	}
+}

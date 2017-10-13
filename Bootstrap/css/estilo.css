@@ -1,0 +1,130 @@
+#Titulo{
+  width:100%;
+  margin-left:0;
+}
+
+
+#titulo{
+    line-height:50px;
+    margin-left:0.4%;
+    width:auto;
+}
+
+#logo{
+    width:220px;
+    margin:10px;   
+    padding:5px;
+    text-align: center;
+}
+
+#enlaces{
+    float:right;
+    line-height:50px;
+    margin-top:80px;    
+    width:auto;
+    padding:5px;
+    text-align: center;
+}
+
+nav{
+  width:100%;
+  margin:auto;
+  text-align:center;
+}
+#botones{
+  text-align:center;
+  color:black;
+  size:20px;
+  margin-left:80px;
+  font-size:1.5em;
+}
+#navegacion1{
+  padding-top:5px;
+  padding-bottom:5px;
+  background-color:#81BEF7;
+  width:95.7%;
+  margin-left:6.8%;
+}
+
+
+#navegacion1{
+  width: 97.5%;
+  margin-left:1.3%;
+  font-size: 2em;
+  line-height: normal;
+  background-color:#81BEF7;
+  font-color:black;      
+  text-align: center;
+  text-decoration: none;
+  padding:10px;
+  overflow:hidden;
+}
+
+button:hover{
+  background-color:#8AAAEB;
+  border-radius:10px;
+}
+
+#contenido{
+	width:100%;
+	height:auto;
+	background-color:white;
+	margin-left:0;
+	overflow:hidden;
+}
+
+p{
+	font-size:1.2em;
+	color:black;
+}
+
+h2{
+	color:black;
+	text-align:center;
+}
+
+#Img1{
+	width:220px;
+	padding:20px;
+	height:300px;
+	margin-left:0;
+}
+
+#Img2{
+	width:220px;
+	padding:20px;
+	height:300px;
+	margin-left:0;
+	float:left;
+}
+
+#artista2{
+	float:right;
+}
+
+.list-group{
+	width:300px;
+}
+
+#busqueda{ 
+  height:680px;
+  background-color:#F2F2F2;
+  padding:10px;
+  width:350px;
+  margin: auto;
+}
+
+textarea{
+    float:left;
+    line-height:20px;
+    margin-left: 20px;
+}
+
+.user{
+  float:left;
+}
+
+#custom-search-input{
+  float:center;
+  margin:auto;
+}

@@ -1,0 +1,77 @@
+#header{
+	background-color:#5b7989;
+ 	padding:10px;
+}
+#titulo{
+    line-height:50px;
+    margin-left:0.4%;
+    width:auto;
+}
+
+#logo{
+    width:220px;
+    margin:10px;   
+    padding:5px;
+}
+
+#enlaces{
+    float:right;
+    line-height:50px;
+    margin-top:80px;    
+    width:300px;
+    padding:5px;
+}
+#Img1{
+	padding-top:20px;
+}
+
+#Img2{
+	float:left;
+}
+
+#busqueda{
+	padding-top:5px;
+  	padding-bottom:5px;
+  	background-color:#81BEF7;
+  	margin-top:0;
+}
+
+#navegacion1{
+  font-size: 2em;
+  font-color:black;      
+  text-align: center;
+  overflow:hidden;
+  margin-top:0;
+  width:auto;
+}
+
+#botones{
+	margin-left:90px;
+}
+
+button:hover{
+  background-color:#8AAAEB;
+  border-radius:10px;  
+}
+
+.list-group{
+	width:280px;
+}
+
+#lista{
+	padding-top:15px;
+}
+#contenido{
+	padding-top:25px;
+	background-color:#D8D8D8;
+	width:auto;
+}
+
+#custom-search-input{
+	width:950px;
+	margin-left:2%;
+}
+
+h2{
+	text-align:center;
+}

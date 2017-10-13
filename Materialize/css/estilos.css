@@ -1,0 +1,89 @@
+html{
+  background-color:#42a5f5;
+}
+
+body{
+  background:fixed; 
+  background-repeat:no-repeat;
+  background-size:cover;
+  background-position:0px 130px;
+}
+h2, h5{
+  text-align:center;
+}
+
+#logo{
+  width:250px;
+  text-align:left;
+}
+
+.brand-logo{
+  padding:10px;
+  font-size:40px;
+  color:black;
+}
+
+#RedesSociales{
+  padding:10px;
+  text-align:center;
+}
+#imagen1{
+  padding:10px;
+  margin:auto;
+  text-align:center;
+}
+#imagen2{
+  padding:60px;
+  margin:auto;
+  text-align:center;
+}
+#ImagenCentro{
+  width:auto;
+  height:auto;
+  margin:auto;
+  padding:20px;
+}
+#imagen3{
+  padding:10px;
+  margin:auto;
+  text-align:center;
+}
+
+li{
+  width:150px;
+  text-align:center;
+  font-size:1.2rem;
+}
+
+p {
+  line-height: 2rem;
+  padding:10px;
+  padding-left:10px;
+}
+
+.button-collapse {
+  color: #26a69a;
+}
+
+@media only screen and (max-width : 992px) {
+  .parallax-container .section {
+    position: absolute;
+    top: 40%;
+  }
+  #index-banner .section {
+    top: 10%;
+  }
+}
+
+@media only screen and (max-width : 600px) {
+  #index-banner .section {
+    top: 0;
+  }
+}
+
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+  font-size: inherit;
+}

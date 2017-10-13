@@ -1,0 +1,111 @@
+@media (max-width: 350px) {
+
+    #Pagina{
+        width: 100%;
+        height: auto;
+        margin: auto;
+    }
+
+    #cabecera{
+        width:100%;
+    }
+
+    #titulo{
+    line-height:50px;
+    float:left;
+    margin-left:0.4%;
+    background-color:white;
+    text-align:center;
+}
+
+    #logo{
+      width:100%;
+    }
+
+    #enlaces{
+        width: auto;
+        margin:auto;
+        height: auto;
+        padding:20px;
+    }
+
+    #navegacion{
+        width: 94%;
+        margin:auto;
+        height: auto;
+    }
+   
+   #navegacion1{
+        width: 97%;
+        font-size: 2em;
+        text-decoration: none;
+    }
+    #botones{
+      margin:auto;
+      width:500px;
+      height:auto;
+    }
+
+    button{
+      width:120px;
+      font-size:1em;
+      margin:auto;
+    }
+    button:hover{
+      background-color:#8AAAEB;
+      border-radius:10px;
+    }
+     textarea{
+      width:220px;
+    }
+
+    #secundario1{
+      width:91.6%;
+      margin:auto;
+      background-color:blue;
+      height:auto;
+    }
+    #contenido{
+      width:100%;
+      margin:auto;
+      background-color:white;
+    }
+
+    #artista1{
+      width:100%;
+      padding:10px;
+      height:auto;
+    }
+
+   
+    #Img1{
+        width:180px;
+    }
+
+    #Img{
+      margin:auto;
+      padding:10px;
+      width:250px;
+    }
+
+    #artista2{
+      width:100%;
+      padding:10px;
+      height:auto;
+    }
+
+   
+    #Img2{
+        width:180px;
+    }
+
+    #secundario2{
+      width:100%;
+      margin:auto;
+      background-color:yellow;
+      height:auto;
+    }
+    input{
+      width:220px;
+    }
+}
